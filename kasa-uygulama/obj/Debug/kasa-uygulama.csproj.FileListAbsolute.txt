@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\bin\Debug\kasa-uygulama.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\bin\Debug\kasa-uygulama.exe
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\bin\Debug\kasa-uygulama.pdb
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa-uygulama.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa_uygulama.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa_uygulama.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa-uygulama.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa-uygulama.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa-uygulama.exe
+C:\Users\student\Desktop\Ahmet\ntp\kasa-uygulama\kasa-uygulama\obj\Debug\kasa-uygulama.pdb
